@@ -11,7 +11,7 @@ function ToDoParent({ todos, onDelete }) {
            <tr>
              {/* Add table header cells for priority, title, and delete */}
              <th>Priority</th>
-             <th>Title</th>
+             <th>Task</th>
              <th>Action</th>
            </tr>
          </thead>
